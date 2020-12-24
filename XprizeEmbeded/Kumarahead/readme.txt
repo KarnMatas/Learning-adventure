@@ -1,0 +1,1 @@
+headIK_rotm เป็น ไฟล์ที่ ได้จาก Matlab code generation
