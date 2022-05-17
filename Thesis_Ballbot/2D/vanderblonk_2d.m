@@ -1,5 +1,6 @@
 clear all
 clc
+sympref('FloatingPointOutput',true);
 syms mb mB mw rb rw l thetax dthetax phix dphix real
 syms Ib IB Iw g real
 syms ddthetax ddphix real
